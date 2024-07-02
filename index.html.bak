@@ -4,6 +4,6 @@
         <meta charset="UTF-8">
         <title>Redirect to a page</title>
     </head>
-    <body onload="window.location.assign('https://script.google.com/macros/s/AKfycbxankWMRHq8vv4-5ipXtJs7Kfr9LY4BNpsvudxEjSKktb2G7GjmXuiYzdX7xJGfUe_V1A/exec')">
+    <body onload="window.location.assign('https://script.google.com/macros/s/AKfycbyb0YgoqDsQaFEADLWogM-tadIr2X2TldvsWvsxn7xdl5yEbO-S0jBwtM39_3dKs_QpFg/exec')">
     </body>
 </html>
