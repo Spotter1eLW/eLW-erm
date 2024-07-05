@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Redirect to a page</title>
-    </head>
-    <body onload="window.location.assign('https://script.google.com/macros/s/AKfycbyb0YgoqDsQaFEADLWogM-tadIr2X2TldvsWvsxn7xdl5yEbO-S0jBwtM39_3dKs_QpFg/exec')">
-    </body>
-</html>
